@@ -22,8 +22,8 @@
 <div class="icons center">
 <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,git,github,sql" />
 
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,git,github,sql&theme=dark" />
+ 
+
 
 
 
