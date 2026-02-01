@@ -15,19 +15,17 @@
 <h2 class="center">🤝 Connect With Me</h2>
 <p class="socials">
   <a href="mailto:mahmoudmahdi296@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <!-- <a href=""><img src="" height="40"/></a> -->
-  <!-- <a href=""><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/></a> -->
-  <!-- <a href=""><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a> -->
+
 </p>
 
 <h2 class="center">🛠 Skills & Tools</h2>
 <div class="icons center">
-<img src="https://skillicons.dev/icons?i=c,html,css,js,ts,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,ts,git,github,sql" />
 
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,git,github,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,git,github,sql&theme=dark" />
 
- <img src="https://skillicons.dev/icons?i=c,html5,css3,js,ts,git,github,mysql" />
+
 
 </div>
 
